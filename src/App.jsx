@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import ChatPopup from './components/ChatPopup'
-import Output from './components/Iutput'
+import Intput from './components/Intput'
 import Output from './components/Output'
 import './App.css'
 import useCurrencyInfo from './components/useCurrencyInfo'
